@@ -1,6 +1,6 @@
 # PPC Search Term Audit Tool
 
-A **100% client-side** PPC search term audit tool that runs entirely in your browser. No backend, no database, no sign-up. Just upload your search term report and get instant, actionable insights.
+A **100% client-side** PPC search term audit tool that runs entirely in your browser. No backend, no database, no sign-up. Just upload your search term report and get instant, actionable insights
 
 ## Features
 
